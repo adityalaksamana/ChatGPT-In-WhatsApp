@@ -1,0 +1,20 @@
+{
+  "name": "chatgptwhatsapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tonggirbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node tonggirbot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.4.0",
+    "ai": "^1.1.0",
+    "open": "^8.4.1",
+    "openai": "^3.1.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
